@@ -2,355 +2,337 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\40136\.android\build-cache\6ec9b8d8ee2bc591c9476a5a42ca43fb0ca31cd3\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_beefbeec7efac5e5ecbde2d191da937481019753\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_216e6afd265475ce63b05169931bb28d43184643\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.2_6d14c9eee5ae1f0e1fe7d29a4aa66a470cdb3253\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_a185c58c1c7a2f90ad932e2a6b4cfb1dbbadd6df\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.android\build-cache\fe8efc2e11ce5df1199fb6486913251e3bd3e2cb\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_474974ef9a7a51ea23c79d0c53fb3fa348c03f99\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.gradle\caches\modules-2\files-2.1\org.bouncycastle\bcprov-jdk15on\1.57\f66a135611d42c992e5745788c3f94eb06464537\bcprov-jdk15on-1.57.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f66a135611d42c992e5745788c3f94eb06464537">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\bcprov-jdk15on-1.57_9b5db0869ff84111dd73940108a14311db1bf8bb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.gradle\caches\modules-2\files-2.1\org.bouncycastle\bcpkix-jdk15on\1.57\5c96e34bc9bd4cd6870e6d193a99438f1e274ca7\bcpkix-jdk15on-1.57.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5c96e34bc9bd4cd6870e6d193a99438f1e274ca7">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\bcpkix-jdk15on-1.57_42b337f9a0a62f36685a76adb46f626095867277\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.android\build-cache\8b164af09dfc7230dfe1a5ba5f18414c28e4d7b3\output\jars\libs\rxjava-computation-expressions-0.21.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="fb55c48be64a50e492ed4d0ff8611cd7d89501ce">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-computation-expressions-0.21.1_2ba086d942da0b28155461575f96fceb98480b4b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\reactive-streams-1.0.0_2286c72485e50ffd6d8dbf7e6482b68d108a5ef0\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.android\build-cache\8b164af09dfc7230dfe1a5ba5f18414c28e4d7b3\output\jars\libs\converter-gson-2.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="57e4a03424c16c96f6e15b554008df9bac396d1f">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.2.0_37af5cf3f74f1decf11cb4c59a6e5a17a4b30197\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\40136\.android\build-cache\8b164af09dfc7230dfe1a5ba5f18414c28e4d7b3\output\jars\libs\dji-rxjava-1.1.3.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
-        revision="25.0.0"
+        revision="27.0.3"
         sha1="0c79b2547fa993825756d71430c9fe9cfba2c189">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\dji-rxjava-1.1.3_e10a0b2b515f24372190b506e1aad8de79ba0369\classes.dex" />
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\dji-rxjava-1.1.3_e10a0b2b515f24372190b506e1aad8de79ba0369.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\40136\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_f760e168f25830401926f5b6342e3e3b7f3b90bc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_67409ce275e0c7d7c202714a442ceaa32fd40bfe\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.android\build-cache\222d02f33efe7677255de7c4e073b691f28f2dc6\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d71ff6e2b19eaffc9a095872720dce62e3951cf\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.android\build-cache\37d15c9676631d3c3922ac160dca886c76344670\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f92c58d4179be0527c2bf10bd668ff18c8bf32ee\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.gradle\caches\modules-2\files-2.1\com.squareup.wire\wire-runtime\2.2.0\edcc5f389a5ffc0aa6fdcd73480e563affdbd24c\wire-runtime-2.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="edcc5f389a5ffc0aa6fdcd73480e563affdbd24c">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\wire-runtime-2.2.0_7d599dd9da18f02bdb197b439788538740a206cc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3aea3603f046f502f5cdab3a22977e2363fa0ba1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.android\build-cache\e5f6dc7299e1376162157b7db122cf2232013a37\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_78373905e71007f7fa52920f28ceea552ceff3b3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.android\build-cache\632a054702d1a8ab2e7cfd07fb7fd1ba25dd3e4c\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a8b929d8b63792832060586cc45722b24b90fb9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.android\build-cache\8b164af09dfc7230dfe1a5ba5f18414c28e4d7b3\output\jars\libs\rxjava-2.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="597e94dc6f967f58d2ab3b092224375ffcc49bc5">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-2.0.0_6bc95f3121fbfb8fbf3714b28b40e97a56285fb2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.android\build-cache\bea7cfc1bca2bdcbb0a6a1204e4bfa0b9d4c9dd7\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="508f50705b4fde51a16259f29c854201a3044516">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_203f8a65706fce6af0bd0e8304d125c2b1856ead\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.gradle\caches\modules-2\files-2.1\com.lmax\disruptor\3.3.9\7898f8e8dc2d908d4ae5240fbb17eb1a9c213b9b\disruptor-3.3.9.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7898f8e8dc2d908d4ae5240fbb17eb1a9c213b9b">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\disruptor-3.3.9_3226fe86843cb45dcd128624d47d2957ac418eb3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.android\build-cache\77c4fc9b5286b63524b0555ef77c0ab0f487d3e1\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7c9df1873deb6eea81480eee22f7e18daf416e2c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.android\build-cache\e377d40138d2cd02b2b47a0e113544169c047aa5\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c48b0e4dfbe9237eac8b358b801e4e0121faf27a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.android\build-cache\d16d2c3af3722b49a9ceddbc9178d686a99e541b\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b4d004417c82dee4c49b5e92e689c9cd318a2e3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.android\build-cache\8b164af09dfc7230dfe1a5ba5f18414c28e4d7b3\output\jars\libs\rxandroid-1.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8c023dc6974699af1aca0e94e0e4f1403dc53849">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxandroid-1.1.0_94dd15193f27619060fd31b7b81eeeb574a51875\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.android\build-cache\8b164af09dfc7230dfe1a5ba5f18414c28e4d7b3\output\jars\libs\retrofit-2.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b0d9c3a922a7794e960b65b0172606144b185811">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.2.0_3fee397bbfa797e1d484eb2a2637a21221aba598\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.android\build-cache\8b164af09dfc7230dfe1a5ba5f18414c28e4d7b3\output\jars\libs\logging-interceptor-3.6.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="09793ad9c2308635c4e8a862d18f8b32a05cbb9d">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.6.0_80fc119ff9dbaea3ffc39b5c269ad72a86e9d6c7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.android\build-cache\55b61c97e4c20aa2891fb71fb79bf2363f71dc87\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c58bde30ca125eccae17b7fc9c20b79a1a37f63\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.android\build-cache\8b164af09dfc7230dfe1a5ba5f18414c28e4d7b3\output\jars\libs\adapter-rxjava2-2.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f0672896d0ccddf52382fe5d4c188792c81f5a8f">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava2-2.2.0_db3c8566463cae4def1fd02e75ed8a06597f43cf\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.android\build-cache\fb53800dce8570577e8d3253886ed552fe75b854\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3bbdccd90b39c1ac403d7160659fdd677546f195\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.android\build-cache\1da07cf2040acbd47af7a578dc413676ed98c81d\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="48bb39a8c77b8918ea0518866c547f1345bdae2d">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8dc9cb6a3cff9236a3706d2ea3bf5e35d8e7b009\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="2d330d07578e8dd523c3b69d4c6a3621f687e1f3">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fde980a9cf64b96f2fa139e29cfe1c2b10402a24\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\40136\.android\build-cache\f4032cf155b87d8d3cd03c406029334720ac498d\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_49ea84e13d7dc57249d097f6a4b895c579938cdc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="C:\Users\40136\.gradle\caches\modules-2\files-2.1\com.vividsolutions\jts\1.8\6ad868f7fe14ef6646d584072e33247eb95f9d13\jts-1.8.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
-        revision="25.0.0"
+        revision="27.0.3"
         sha1="6ad868f7fe14ef6646d584072e33247eb95f9d13">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\jts-1.8_506500afedcec65615b4896654746316cae065d2\classes.dex" />
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\jts-1.8_506500afedcec65615b4896654746316cae065d2.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\40136\.android\build-cache\9a6a7fdd25d121e39f7a9fbffeb3b1c6b11ca713\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\40136\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_16d69c454f8564b7e1b185a59be9a2b15b1c7c37\classes.dex" />
+        revision="27.0.3"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\gson-2.8.2_6d14c9eee5ae1f0e1fe7d29a4aa66a470cdb3253.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\40136\.android\build-cache\8b164af09dfc7230dfe1a5ba5f18414c28e4d7b3\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\40136\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
         optimize="true"
-        revision="25.0.0"
-        sha1="217c890d6e94b94b9f1c6bc44510b46fb654c715">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_21291cae3710d8b64c5a1cee459584a445ef2769\classes.dex" />
+        revision="27.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\common-1.0.0_f760e168f25830401926f5b6342e3e3b7f3b90bc.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\40136\.android\build-cache\0ff422f1ff3f343a052cdd69a92bddbd6ea2dfd4\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\40136\.android\build-cache\8b164af09dfc7230dfe1a5ba5f18414c28e4d7b3\output\jars\libs\rxandroid-1.1.0.jar"
+        jumboMode="false"
         optimize="true"
-        revision="25.0.0"
+        revision="27.0.3"
+        sha1="8c023dc6974699af1aca0e94e0e4f1403dc53849">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\rxandroid-1.1.0_94dd15193f27619060fd31b7b81eeeb574a51875.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.android\build-cache\37d15c9676631d3c3922ac160dca886c76344670\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\classes_f92c58d4179be0527c2bf10bd668ff18c8bf32ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.android\build-cache\632a054702d1a8ab2e7cfd07fb7fd1ba25dd3e4c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\classes_7a8b929d8b63792832060586cc45722b24b90fb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\okio-1.11.0_67409ce275e0c7d7c202714a442ceaa32fd40bfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.android\build-cache\d16d2c3af3722b49a9ceddbc9178d686a99e541b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\classes_5b4d004417c82dee4c49b5e92e689c9cd318a2e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.android\build-cache\222d02f33efe7677255de7c4e073b691f28f2dc6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\classes_8d71ff6e2b19eaffc9a095872720dce62e3951cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.android\build-cache\8b164af09dfc7230dfe1a5ba5f18414c28e4d7b3\output\jars\libs\logging-interceptor-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="09793ad9c2308635c4e8a862d18f8b32a05cbb9d">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.6.0_80fc119ff9dbaea3ffc39b5c269ad72a86e9d6c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.gradle\caches\modules-2\files-2.1\org.bouncycastle\bcpkix-jdk15on\1.57\5c96e34bc9bd4cd6870e6d193a99438f1e274ca7\bcpkix-jdk15on-1.57.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5c96e34bc9bd4cd6870e6d193a99438f1e274ca7">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\bcpkix-jdk15on-1.57_42b337f9a0a62f36685a76adb46f626095867277.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.android\build-cache\77c4fc9b5286b63524b0555ef77c0ab0f487d3e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\classes_7c9df1873deb6eea81480eee22f7e18daf416e2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_a185c58c1c7a2f90ad932e2a6b4cfb1dbbadd6df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.android\build-cache\8b164af09dfc7230dfe1a5ba5f18414c28e4d7b3\output\jars\libs\retrofit-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b0d9c3a922a7794e960b65b0172606144b185811">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\retrofit-2.2.0_3fee397bbfa797e1d484eb2a2637a21221aba598.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.android\build-cache\8b164af09dfc7230dfe1a5ba5f18414c28e4d7b3\output\jars\libs\rxjava-2.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="597e94dc6f967f58d2ab3b092224375ffcc49bc5">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\rxjava-2.0.0_6bc95f3121fbfb8fbf3714b28b40e97a56285fb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_c5931daee83e65b1d1af8a3b685ccafd2c24a3ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.android\build-cache\19c2da765ac2ae915a52bb3ac8560c732827b55c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\classes_994ee2fa7ea57262b426c25026660b27c35de958.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.android\build-cache\97204d3e4dddc29413555cab29c393caff0460c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
         sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1ffd800243c1d163d8cd2c3f9c439fda86c882eb\classes.dex" />
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\classes_65c355f9abc0da44ba13f26eb8b9a74004386364.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\40136\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\40136\.android\build-cache\fe8efc2e11ce5df1199fb6486913251e3bd3e2cb\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="25.0.0"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\classes_474974ef9a7a51ea23c79d0c53fb3fa348c03f99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.gradle\caches\modules-2\files-2.1\org.bouncycastle\bcprov-jdk15on\1.57\f66a135611d42c992e5745788c3f94eb06464537\bcprov-jdk15on-1.57.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f66a135611d42c992e5745788c3f94eb06464537">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\bcprov-jdk15on-1.57_9b5db0869ff84111dd73940108a14311db1bf8bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\reactive-streams-1.0.0_2286c72485e50ffd6d8dbf7e6482b68d108a5ef0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.android\build-cache\8b164af09dfc7230dfe1a5ba5f18414c28e4d7b3\output\jars\libs\converter-gson-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="57e4a03424c16c96f6e15b554008df9bac396d1f">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\converter-gson-2.2.0_37af5cf3f74f1decf11cb4c59a6e5a17a4b30197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.android\build-cache\8b164af09dfc7230dfe1a5ba5f18414c28e4d7b3\output\jars\libs\rxjava-computation-expressions-0.21.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fb55c48be64a50e492ed4d0ff8611cd7d89501ce">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\rxjava-computation-expressions-0.21.1_2ba086d942da0b28155461575f96fceb98480b4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.android\build-cache\e377d40138d2cd02b2b47a0e113544169c047aa5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\classes_c48b0e4dfbe9237eac8b358b801e4e0121faf27a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.android\build-cache\55b61c97e4c20aa2891fb71fb79bf2363f71dc87\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\classes_0c58bde30ca125eccae17b7fc9c20b79a1a37f63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.gradle\caches\modules-2\files-2.1\com.lmax\disruptor\3.3.9\7898f8e8dc2d908d4ae5240fbb17eb1a9c213b9b\disruptor-3.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7898f8e8dc2d908d4ae5240fbb17eb1a9c213b9b">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\disruptor-3.3.9_3226fe86843cb45dcd128624d47d2957ac418eb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.android\build-cache\bea7cfc1bca2bdcbb0a6a1204e4bfa0b9d4c9dd7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\classes_203f8a65706fce6af0bd0e8304d125c2b1856ead.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.android\build-cache\fb53800dce8570577e8d3253886ed552fe75b854\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\classes_3bbdccd90b39c1ac403d7160659fdd677546f195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.android\build-cache\9a6a7fdd25d121e39f7a9fbffeb3b1c6b11ca713\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\classes_16d69c454f8564b7e1b185a59be9a2b15b1c7c37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
         sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
-        <dex dex="C:\Users\40136\Desktop\DJI\Android-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_ed70a5a23063dba9f782f67b4c8ff2a30a69fd0e\classes.dex" />
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\common-1.0.0_ed70a5a23063dba9f782f67b4c8ff2a30a69fd0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.android\build-cache\8b164af09dfc7230dfe1a5ba5f18414c28e4d7b3\output\jars\libs\adapter-rxjava2-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f0672896d0ccddf52382fe5d4c188792c81f5a8f">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\adapter-rxjava2-2.2.0_db3c8566463cae4def1fd02e75ed8a06597f43cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.gradle\caches\modules-2\files-2.1\com.squareup.wire\wire-runtime\2.2.0\edcc5f389a5ffc0aa6fdcd73480e563affdbd24c\wire-runtime-2.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="edcc5f389a5ffc0aa6fdcd73480e563affdbd24c">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\wire-runtime-2.2.0_7d599dd9da18f02bdb197b439788538740a206cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.android\build-cache\8b164af09dfc7230dfe1a5ba5f18414c28e4d7b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="217c890d6e94b94b9f1c6bc44510b46fb654c715">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\classes_21291cae3710d8b64c5a1cee459584a445ef2769.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.android\build-cache\6ec9b8d8ee2bc591c9476a5a42ca43fb0ca31cd3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\classes_beefbeec7efac5e5ecbde2d191da937481019753.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.android\build-cache\f4032cf155b87d8d3cd03c406029334720ac498d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\classes_49ea84e13d7dc57249d097f6a4b895c579938cdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\40136\.android\build-cache\1da07cf2040acbd47af7a578dc413676ed98c81d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="48bb39a8c77b8918ea0518866c547f1345bdae2d">
+        <dex dex="C:\Users\40136\Desktop\DJI\2-ActivationAndBindingDemo\ActivationAndBindingDemo\app\build\intermediates\pre-dexed\debug\classes_8dc9cb6a3cff9236a3706d2ea3bf5e35d8e7b009.jar" />
     </item>
 
 </items>
