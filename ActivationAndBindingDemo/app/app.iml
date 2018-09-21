@@ -100,7 +100,7 @@
       <excludeFolder url="file://$MODULE_DIR$/build/outputs" />
       <excludeFolder url="file://$MODULE_DIR$/build/tmp" />
     </content>
-    <orderEntry type="jdk" jdkName="Android API 26 Platform" jdkType="Android SDK" />
+    <orderEntry type="jdk" jdkName="Android API 26 Platform (1)" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support.constraint:constraint-layout-solver:1.0.2@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: org.bouncycastle:bcpkix-jdk15on:1.57@jar" level="project" />
@@ -132,6 +132,5 @@
     <orderEntry type="library" exported="" name="Gradle: com.dji:dji-sdk-provided:4.7.1@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:design-26.1.0" level="project" />
     <orderEntry type="library" exported="" name="Gradle: android.arch.lifecycle:runtime-1.0.0" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: android-android-26" level="project" />
   </component>
 </module>

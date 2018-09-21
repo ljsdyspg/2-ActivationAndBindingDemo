@@ -38,6 +38,7 @@ public class ConnectionActivity extends Activity implements View.OnClickListener
     private TextView mTextConnectionStatus;
     private TextView mTextProduct;
     private Button mBtnOpen;
+    private Button mBtnLocation;
     private TextView mVersionTv;
 
     private static final String[] REQUIRED_PERMISSION_LIST = new String[]{
@@ -213,6 +214,8 @@ public class ConnectionActivity extends Activity implements View.OnClickListener
         mBtnOpen = (Button) findViewById(R.id.btn_open);
         mBtnOpen.setOnClickListener(this);
         mBtnOpen.setEnabled(false);
+        mBtnLocation = (Button) findViewById(R.id.btn_location);
+        mBtnLocation.setOnClickListener(this);
         mVersionTv = (TextView) findViewById(R.id.textView2);
         mVersionTv.setText(getResources().getString(R.string.sdk_version, DJISDKManager.getInstance().getSDKVersion()));
     }
@@ -256,6 +259,11 @@ public class ConnectionActivity extends Activity implements View.OnClickListener
 
             case R.id.btn_open: {
                 Intent intent = new Intent(this, MainActivity.class);
+                startActivity(intent);
+                break;
+            }
+            case R.id.btn_location:{
+                Intent intent = new Intent(this, GetLocation.class);
                 startActivity(intent);
                 break;
             }

@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     private void initUI(){
-
+        //initUI方法添加界面上的控件，同时为按钮添加监听
         bindingStateTV = (TextView) findViewById(R.id.tv_binding_state_info);
         appActivationStateTV = (TextView) findViewById(R.id.tv_activation_state_info);
         loginBtn = (Button) findViewById(R.id.btn_login);
@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             });
         }
     }
-    //设置监听器1
+    //设置监听器1，应用注册情况和飞机绑定状态
     private void setUpListener() {
         // Example of Listener
         activationStateListener = new AppActivationState.AppActivationStateListener() {

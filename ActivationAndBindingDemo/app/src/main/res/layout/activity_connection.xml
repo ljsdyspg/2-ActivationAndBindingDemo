@@ -65,4 +65,15 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true" />
 
+    <Button
+        android:id="@+id/btn_location"
+        android:layout_width="150dp"
+        android:layout_height="55dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="470dp"
+        android:background="@drawable/round_btn"
+        android:text="LOCATION"
+        android:textColor="@color/colorWhite"
+        android:textSize="20dp"
+        />
 </RelativeLayout>
