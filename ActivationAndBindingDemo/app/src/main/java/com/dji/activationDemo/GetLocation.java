@@ -10,7 +10,6 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import dji.common.error.DJIError;
 import dji.common.flightcontroller.FlightControllerState;
@@ -101,13 +100,8 @@ public class GetLocation extends Activity implements View.OnClickListener{
                     }
                 });
     }
-    private void setResultToToast(final String string){
-        GetLocation.this.runOnUiThread(new Runnable() {
-            @Override
-            public void run() {
-                Toast.makeText(GetLocation.this, string, Toast.LENGTH_SHORT).show();
-            }
-        });
+    private void setResultToToast(){
+
     }
 
     @Override
