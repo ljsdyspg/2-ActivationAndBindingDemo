@@ -6,10 +6,12 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.os.Bundle;
+import android.os.LocaleList;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import dji.common.error.DJIError;
 import dji.common.flightcontroller.FlightControllerState;
@@ -22,7 +24,7 @@ import dji.sdk.useraccount.UserAccountManager;
 
 public class GetLocation extends Activity implements View.OnClickListener{
     protected static final String TAG = "Activity";
-    private double droneLocationLat = 181, droneLocationLng = 181;
+    private double droneLocationLat = 181, droneLocationLng = 181,droneHeight=181;
     private FlightController mFlightController;
 
     private Button getLoc;
@@ -72,7 +74,7 @@ public class GetLocation extends Activity implements View.OnClickListener{
         }
 
         if (mFlightController != null) {
-
+            Toast.makeText(this,"获取遥控",Toast.LENGTH_LONG).show();
             mFlightController.setStateCallback(
                     new FlightControllerState.Callback() {
                         @Override
@@ -80,9 +82,11 @@ public class GetLocation extends Activity implements View.OnClickListener{
                                                      djiFlightControllerCurrentState) {
                             droneLocationLat = djiFlightControllerCurrentState.getAircraftLocation().getLatitude();
                             droneLocationLng = djiFlightControllerCurrentState.getAircraftLocation().getLongitude();
+                            droneHeight = djiFlightControllerCurrentState.getAircraftLocation().getAltitude();
                         }
                     });
-
+            String a = "get: "+droneHeight;
+            Toast.makeText(this,a,Toast.LENGTH_LONG).show();
         }
     }
 
@@ -100,13 +104,19 @@ public class GetLocation extends Activity implements View.OnClickListener{
                     }
                 });
     }
-    private void setResultToToast(){
-
+    private void setResultToToast(final String string){
+        GetLocation.this.runOnUiThread(new Runnable() {
+            @Override
+            public void run() {
+                Toast.makeText(GetLocation.this, string, Toast.LENGTH_SHORT).show();
+            }
+        });
     }
 
     @Override
     public void onClick(View view) {
-        String result = "经度："+ droneLocationLat+"\n纬度：" + droneLocationLng;
+        initFlightController();
+        String result = "经度："+ droneLocationLat+"\n纬度：" + droneLocationLng+"\n高度："+droneHeight;
         LocInfo.setText(result);
     }
 }
